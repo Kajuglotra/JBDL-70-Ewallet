@@ -3,7 +3,7 @@ package org.gfg.UserServiceApplication.dtos;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
 import lombok.*;
-import org.gfg.UserServiceApplication.model.UserIdentifier;
+import org.gfg.Utilities.UserIdentifier;
 import org.gfg.UserServiceApplication.model.UserType;
 import org.gfg.UserServiceApplication.model.Users;
 

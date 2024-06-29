@@ -1,4 +1,4 @@
-package org.gfg.UserServiceApplication.model;
+package org.gfg.Utilities;
 
 public enum UserIdentifier {
     PAN,

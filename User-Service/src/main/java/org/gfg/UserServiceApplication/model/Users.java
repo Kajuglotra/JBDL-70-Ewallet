@@ -2,6 +2,7 @@ package org.gfg.UserServiceApplication.model;
 
 import jakarta.persistence.*;
 import lombok.*;
+import org.gfg.Utilities.UserIdentifier;
 import org.hibernate.annotations.CreationTimestamp;
 import org.hibernate.annotations.UpdateTimestamp;
 import org.springframework.security.core.GrantedAuthority;
